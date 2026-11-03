@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<product>
+    <customer_product>
+        <product_id>CP1001</product_id>
+        <product_name>Sony WH-1000XM5 Wireless Noise Cancelling Headphones</product_name>
+        <brand>Sony</brand>
+        <category>Electronics &gt; Audio &gt; Headphones</category>
+        <sku>WH1000XM5/B</sku>
+        <model>WH-1000XM5</model>
+        <image>sony-wh1000xm5.jpg</image>
+        <selling_price currency="INR">29990</selling_price>
+        <mrp currency="INR">34990</mrp>
+        <inventory>
+            <stock_status>In Stock</stock_status>
+            <quantity>42</quantity>
+        </inventory>
+    </customer_product>
+    <competitors>
+        <competitor>
+            <retailer>Amazon</retailer>
+            <product_url>https://amazon.in</product_url>
+            <price currency="INR">27990</price>
+            <mrp currency="INR">34990</mrp>
+            <discount>20%</discount>
+            <stock_status>In Stock</stock_status>
+            <delivery>Free delivery in 2 days</delivery>
+            <rating>4.5</rating>
+            <reviews>12450</reviews>
+        </competitor>
+        <competitor>
+            <retailer>Flipkart</retailer>
+            <product_url>https://flipkart.com</product_url>
+            <price currency="INR">28990</price>
+            <mrp currency="INR">34990</mrp>
+            <discount>17%</discount>
+            <stock_status>In Stock</stock_status>
+            <delivery>Free delivery in 3 days</delivery>
+            <rating>4.4</rating>
+            <reviews>8320</reviews>
+        </competitor>
+        <competitor>
+            <retailer>Croma</retailer>
+            <product_url>https://croma.com</product_url>
+            <price currency="INR">29990</price>
+            <mrp currency="INR">34990</mrp>
+            <discount>14%</discount>
+            <stock_status>Out of Stock</stock_status>
+            <delivery>Unavailable</delivery>
+            <rating>4.3</rating>
+            <reviews>2150</reviews>
+        </competitor>
+    </competitors>
+    <price_analysis>
+        <lowest_competitor_price>27990</lowest_competitor_price>
+        <highest_competitor_price>29990</highest_competitor_price>
+        <average_competitor_price>28990</average_competitor_price>
+        <price_difference>1000</price_difference>
+        <price_position>Above Market</price_position>
+    </price_analysis>
+    <last_updated>2026-11-03T10:30:00</last_updated>
+</product>

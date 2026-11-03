@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Products>
+  <Product>
+    <UniqueID>CP1001</UniqueID>
+    <ProductName>Sony WH-1000XM5 Wireless Noise Cancelling Headphones</ProductName>
+    <Brand>Sony</Brand>
+    <Category>Electronics &gt; Audio &gt; Headphones</Category>
+    <SKU>WH1000XM5/B</SKU>
+    <Model>WH-1000XM5</Model>
+    <Currency>INR</Currency>
+    <SellingPrice>29990</SellingPrice>
+    <MRP>34990</MRP>
+    <Inventory>
+      <StockStatus>In Stock</StockStatus>
+      <Quantity>42</Quantity>
+    </Inventory>
+    <Competitors>
+      <Competitor>
+        <Retailer>Amazon</Retailer>
+        <ProductURL>https://www.amazon.in/</ProductURL>
+        <Price>27990</Price>
+        <MRP>34990</MRP>
+        <DiscountPercent>20</DiscountPercent>
+        <StockStatus>In Stock</StockStatus>
+        <Delivery>Free delivery in 2 days</Delivery>
+        <Rating>4.5</Rating>
+        <ReviewCount>12450</ReviewCount>
+      </Competitor>
+      <Competitor>
+        <Retailer>Flipkart</Retailer>
+        <ProductURL>https://www.flipkart.com/</ProductURL>
+        <Price>28990</Price>
+        <MRP>34990</MRP>
+        <DiscountPercent>17</DiscountPercent>
+        <StockStatus>In Stock</StockStatus>
+        <Delivery>Free delivery in 3 days</Delivery>
+        <Rating>4.4</Rating>
+        <ReviewCount>8320</ReviewCount>
+      </Competitor>
+      <Competitor>
+        <Retailer>Croma</Retailer>
+        <ProductURL>https://www.croma.com/</ProductURL>
+        <Price>29990</Price>
+        <MRP>34990</MRP>
+        <DiscountPercent>14</DiscountPercent>
+        <StockStatus>Out of Stock</StockStatus>
+        <Delivery>Unavailable</Delivery>
+        <Rating>4.3</Rating>
+        <ReviewCount>2150</ReviewCount>
+      </Competitor>
+    </Competitors>
+    <PriceAnalysis>
+      <LowestCompetitorPrice>27990</LowestCompetitorPrice>
+      <HighestCompetitorPrice>29990</HighestCompetitorPrice>
+      <AverageCompetitorPrice>28990</AverageCompetitorPrice>
+      <PricePosition>Above Market</PricePosition>
+    </PriceAnalysis>
+    <LastUpdated>2026-11-03T10:30:00</LastUpdated>
+  </Product>
+</Products>
